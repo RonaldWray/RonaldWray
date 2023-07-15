@@ -13,7 +13,7 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/ronaldwray/configure-ad)
 
  - <b>Setup and Use of Virtual Private Networks</b> 
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/ronaldwray/azure-network-protocols)
+  - [VPN Setup and Usage ProtonVPN ](https://github.com/ronaldwray/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
 
