@@ -4,11 +4,15 @@
 
 - <b>Microsoft Azure (Creating Virtual Machines, Networks and Resource Groups)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/ronaldwray/osticket-prereqs)
-  - [osTicket: Performing Activities On Networks](https://github.com/ronaldwray/Performing-Activities-On-Networks
+  - [osTicket: Performing Activities On Networks](https://github.com/ronaldwray/Performing-Activities-On-Networks)
+    
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Ticket Lifecycle Examples](https://github.com/ronaldwray/ticket-lifecycle)
-- <b>Microsoft Azure</b>
+
+- <b>Setup and Use of Virtual Private Networks</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/ronaldwray/configure-ad)
+
+ - <b>Setup and Use of Virtual Private Networks</b> 
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/ronaldwray/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
