@@ -3,8 +3,8 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Microsoft Azure (Creating Virtual Machines, Networks and Resource Groups)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/ronaldwray/osticket-prereqs)
-  - [osTicket: Performing Activities On Networks](https://github.com/ronaldwray/Performing-Activities-On-Networks)
+  - [Azure: Setting up Virtual Machines and Resource Groups](https://github.com/ronaldwray/Setting-up-Virtual-Machines-Resource-Groups)
+  - [Azure: Performing Activities On Networks](https://github.com/ronaldwray/Performing-Activities-On-Networks)
     
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Ticket Lifecycle Examples](https://github.com/ronaldwray/ticket-lifecycle)
