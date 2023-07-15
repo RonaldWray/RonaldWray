@@ -12,9 +12,6 @@
 - <b>Setup and Use of Virtual Private Networks</b>
   - [VPN Setup and Usage ProtonVPN](https://github.com/ronaldwray/configure-ad)
 
- - <b>Setup and Use of Virtual Private Networks</b> 
-  - [VPN Setup and Usage ProtonVPN ](https://github.com/ronaldwray/azure-network-protocols)
-
 <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="Josh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
