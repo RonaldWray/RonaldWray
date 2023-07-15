@@ -10,7 +10,7 @@
   - [osTicket: Creating A Ticket System](https://github.com/ronaldwray/creating-a-ticket-system)
 
 - <b>Setup and Use of Virtual Private Networks</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/ronaldwray/configure-ad)
+  - [VPN Setup and Usage ProtonVPN](https://github.com/ronaldwray/configure-ad)
 
  - <b>Setup and Use of Virtual Private Networks</b> 
   - [VPN Setup and Usage ProtonVPN ](https://github.com/ronaldwray/azure-network-protocols)
