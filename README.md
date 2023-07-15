@@ -7,7 +7,7 @@
   - [Azure: Performing Activities On Networks](https://github.com/ronaldwray/Performing-Activities-On-Networks)
     
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/ronaldwray/ticket-lifecycle)
+  - [osTicket: Creating A Ticket System](https://github.com/ronaldwray/creating-a-ticket-system)
 
 - <b>Setup and Use of Virtual Private Networks</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/ronaldwray/configure-ad)
